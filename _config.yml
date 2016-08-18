@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "SWC R Bootcamp for Education Researchers"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: jkm@ucdavis.edu
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
